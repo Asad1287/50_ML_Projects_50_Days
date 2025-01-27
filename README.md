@@ -1,2 +1,2 @@
-# Awesome Simulations
-List of python simulation notebooks on various subjects 
+# Learn Generative AI in 50 days with 50 lessosn
+
